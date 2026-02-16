@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "City Walls",
+  "base_artist": "twenty one pilots",
+  "createdAt": "2026-02-16T00:08:25.149909Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "City Walls of Troy",
+      "artist": "Warlord",
+      "has_synced": true,
+      "path": "select/01_City_Walls_of_Troy_Warlord.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Here Now (Madness) [By An Empty Tomb Just Beyond The City Walls] (Live)",
+      "artist": "Hillsong United",
+      "has_synced": true,
+      "path": "select/02_Here_Now_(Madness)_[By_An_Empty_Tomb_Just_Beyond_The_City_Walls]_(Live)_Hillsong_United.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Here Now (Madness) [By An Empty Tomb Just Beyond The City Walls] (Live)",
+      "artist": "Hillsong UNITED",
+      "has_synced": true,
+      "path": "select/03_Here_Now_(Madness)_[By_An_Empty_Tomb_Just_Beyond_The_City_Walls]_(Live)_Hillsong_UNITED.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "City Walls",
+      "artist": "Alberta Cross",
+      "has_synced": false,
+      "path": "select/04_City_Walls_Alberta_Cross.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "City Walls",
+      "artist": "machinegum",
+      "has_synced": true,
+      "path": "select/05_City_Walls_machinegum.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "White City Walls",
+      "artist": "Bombshell Rocks",
+      "has_synced": true,
+      "path": "select/06_White_City_Walls_Bombshell_Rocks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "City Walls Of Troy",
+      "artist": "Warlord",
+      "has_synced": false,
+      "path": "select/07_City_Walls_Of_Troy_Warlord.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "City Walls",
+      "artist": "Baden Baden",
+      "has_synced": true,
+      "path": "select/08_City_Walls_Baden_Baden.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "City Walls",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/09_City_Walls_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "City Walls (Paused)",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/10_City_Walls_(Paused)_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "City Walls - twenty one pilots",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/11_City_Walls_-_twenty_one_pilots_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "City Walls",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/12_City_Walls_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "city walls",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/13_city_walls_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "City Walls",
+      "artist": "twenty one pilots",
+      "has_synced": false,
+      "path": "select/pl_01_City_Walls_twenty_one_pilots.txt"
+    }
+  ]
+}
